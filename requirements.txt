@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn
+openpyxl
+pystdf @ git+https://github.com/galenmarchetti/pystdf.git
