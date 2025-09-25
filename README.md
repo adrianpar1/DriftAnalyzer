@@ -1,6 +1,6 @@
-# Parametric Drift Analysis Tool
+# DriftAnalyzer
 
-The **Parametric Drift Analysis Tool** is a Python-based utility designed to streamline and automate parametric drift analysis over multiple test readpoints. By reducing manual data wrangling and spreadsheet setup, this tool lets engineers focus on interpreting results and identifying meaningful trends in test data.
+The **DriftAnalyzer** is a Python-based utility designed to streamline and automate parametric drift analysis over multiple test readpoints. By reducing manual data wrangling and spreadsheet setup, this tool lets engineers focus on interpreting results and identifying meaningful trends in test data.
 
 ---
 
